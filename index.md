@@ -5,7 +5,8 @@ Table of Contents
   - [Task lists](#task-lists)
 
 # Introduction
-**Hi, my name is Aditi!**
+<ins> **Hi, my name is Aditi!** </ins>
+
 ![This is me](/intro_img.jpg)
 
 ## Why Computer Engineering?
