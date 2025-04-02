@@ -1,3 +1,2 @@
-
-Aditi's User Page
-My favorite programming language is C++ just because most of my classes used it.
+# GitHub-Pages-project
+My favorite coding language is C++
