@@ -1,10 +1,10 @@
 Table of Contents
 - [Introduction](#introduction)
-  - [Why Computer Engineering?](#why-computer-engineering)
-  - [Other interests](#other-interests)
-  - [Task lists](#task-lists)
-
-# Introduction
+- [Why Computer Engineering?](#why-computer-engineering)
+- [Other interests](#other-interests)
+- [Task lists](#task-lists)
+   
+## Introduction
 <ins> **Hi, my name is Aditi!** </ins>
 
 ![This is me](/intro_img.jpg)
@@ -17,10 +17,10 @@ Then, I went on to pursue an internship in bioinformatics, exploring a world tha
 
 ## Other interests
 Aside from career outlooks, I also have hobbies I am passionate about..
-- Drawing/painting
-- Listening to music
-- Nail art
-- Working out
+1. Drawing/painting
+2. Listening to music
+3. Nail art
+4. Working out
 
 Though I don't have a portfolio of all my artwork, here are some artists I admire the art style of: [Pinterest](https://www.pinterest.com/pin/6966574420251446/).
 
